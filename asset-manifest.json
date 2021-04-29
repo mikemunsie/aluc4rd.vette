@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mikemunsie/alucr4d.vette/static/css/main.10c3eb0c.chunk.css",
+    "main.js": "/mikemunsie/alucr4d.vette/static/js/main.1f06b359.chunk.js",
+    "main.js.map": "/mikemunsie/alucr4d.vette/static/js/main.1f06b359.chunk.js.map",
+    "runtime-main.js": "/mikemunsie/alucr4d.vette/static/js/runtime-main.275d8126.js",
+    "runtime-main.js.map": "/mikemunsie/alucr4d.vette/static/js/runtime-main.275d8126.js.map",
+    "static/js/2.6d729bea.chunk.js": "/mikemunsie/alucr4d.vette/static/js/2.6d729bea.chunk.js",
+    "static/js/2.6d729bea.chunk.js.map": "/mikemunsie/alucr4d.vette/static/js/2.6d729bea.chunk.js.map",
+    "index.html": "/mikemunsie/alucr4d.vette/index.html",
+    "static/css/main.10c3eb0c.chunk.css.map": "/mikemunsie/alucr4d.vette/static/css/main.10c3eb0c.chunk.css.map",
+    "static/js/2.6d729bea.chunk.js.LICENSE.txt": "/mikemunsie/alucr4d.vette/static/js/2.6d729bea.chunk.js.LICENSE.txt",
+    "static/media/car.f587eff9.jpg": "/mikemunsie/alucr4d.vette/static/media/car.f587eff9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.275d8126.js",
+    "static/js/2.6d729bea.chunk.js",
+    "static/css/main.10c3eb0c.chunk.css",
+    "static/js/main.1f06b359.chunk.js"
+  ]
+}
