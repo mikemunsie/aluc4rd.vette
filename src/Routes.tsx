@@ -1,4 +1,4 @@
-import {BrowserRouter, Redirect, Switch, Route } from "react-router-dom";
+import { Redirect, Switch, Route, HashRouter} from "react-router-dom";
 import Home from "./pages/Home";
 import styled from "styled-components";
 import carImage from "./assets/car.jpg";
@@ -24,7 +24,7 @@ const StyledCarImage = styled.div`
 
 export default function Routes() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <StyledCarImage />
       <Header />
       <Switch>
@@ -36,7 +36,7 @@ export default function Routes() {
         </Route>
         <Redirect to="/" />
       </Switch>
-    </BrowserRouter>
+    </HashRouter>
   )
 
 
