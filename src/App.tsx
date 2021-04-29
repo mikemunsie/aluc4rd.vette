@@ -6,9 +6,13 @@ import Container from "./components/Container";
 
 export default function App() {
   return (
-    <Container>
+    <>
       <GlobalStyles/>
-      <Routes/>
-    </Container>
+      <Container>
+        <div>
+          <Routes/>
+        </div>
+      </Container>
+    </>
   )
 }
