@@ -28,6 +28,10 @@ export default function Parts() {
       </div>
       <p className="mb-10">The car so far has been modified to be a solid daily driver with a few extra parts for visual improvements. Performance mods will begin in 2022.</p>
       <div className="part">
+        <p>Spoiler King Trunk Spoiler</p>
+        <a href="https://spoilerking.com/collections/chevy-corvette-c4-1984-1996/products/chevy-corvette-c4-1984-1996-trunk-spoiler-w-center-cut-284gc">https://spoilerking.com/collections/chevy-corvette-c4-1984-1996/products/chevy-corvette-c4-1984-1996-trunk-spoiler-w-center-cut-284gc</a>
+      </div>
+      <div className="part">
         <p>LED Fog Lights</p>
         <a href="https://www.vette-lights.com/products/1984-1996-c4-corvette-55w-hid-fog-light-conversion-kit-super-bright">https://www.vette-lights.com/products/1984-1996-c4-corvette-55w-hid-fog-light-conversion-kit-super-bright</a>
       </div>
